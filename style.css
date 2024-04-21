@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.bodymid{
+    display: flex;
+    height: 909px;
+    width: 1440px;
+   
+}
+
+
+.meiodiv{
+    width: 520px;
+    height: 330px;
+    margin-left: 165px;
+    margin-top: 160px;
+}
+
+.titulomeio{
+    color: rgba(9, 17, 51, 1);
+    stroke: black;
+    line-height: 48px;
+    font-size: 36px;
+    font-family: "Red Rose", serif;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+}
+
+
+
+.textomeio{
+    margin-top: 16px;
+    color: rgb(111, 124, 178);
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+.imagem{
+    width: 492px;
+    height: 1031px;
+    margin-left: 98px;
+    margin-top: 100px;  
+}
+
+.botoes{
+    display: flex;
+    margin-top: 46px;
+    gap: 30px;
+    justify-content: center;
+}
+
+
+.botao1{ 
+    display: flex;
+    background-color: rgba(17, 27, 71, 1);
+    text-decoration: none;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 36px;
+    width: 190px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.botao2{
+    display: flex;
+    background-color:white;
+    border: 3px rgba(17, 27, 71, 1) solid;
+    text-decoration: none;
+    color: rgba(17, 27, 71, 1);
+    justify-content: center;
+    align-items: center;
+    height: 36px;
+    width: 190px;
+
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+    
+    
